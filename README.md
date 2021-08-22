@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at - [**My Portfolio Website**](https://dhruv-maheshwari.web.app/)
 
-- 📝 I regularly write articles on - [**The TechPost**](https://react-blog-8fea6.web.app/)
+<!-- - 📝 I regularly write articles on - [**The TechPost**](https://react-blog-8fea6.web.app/) -->
 
 - 💬 Ask me about - **Web/App Developement, Cricket, Web Series**
 
