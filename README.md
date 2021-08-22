@@ -3,19 +3,19 @@
 
 ---
 
-- 🔭 I’m currently working on [My Personal Blog Website](https://react-blog-8fea6.web.app/)
+- 🔭 I’m currently working on - [**The TechPost**](https://react-blog-8fea6.web.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning - **React JS** for **Web Developement** & **Flutter** for **App Developement**
 
-- 👨‍💻 All of my projects are available at [My Website](https://dhruv-maheshwari.web.app/)
+- 👨‍💻 All of my projects are available at - [**My Portfolio Website**](https://dhruv-maheshwari.web.app/)
 
-- 📝 I regularly write articles on [My Personal Blog](https://react-blog-8fea6.web.app/)
+- 📝 I regularly write articles on - [**The TechPost**](https://react-blog-8fea6.web.app/)
 
-- 💬 Ask me about **React, Flutter, Firebase**
+- 💬 Ask me about - **Web/App Developement, Cricket, Web Series**
 
-- 📫 How to reach me [dhruv.maheshwari.0126@gmail.com](dhruv.maheshwari.0126@gmail.com)
+- 📫 Want to Connect - [**Email Me**](dhruv.maheshwari.0126@gmail.com)
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Tm4E8fFvlgbksqjCanEww-mSSr1QesRn/view)
+- 📄 Know about my experiences - [**Resume**](https://drive.google.com/file/d/1Tm4E8fFvlgbksqjCanEww-mSSr1QesRn/view)
 
 ---
 
