@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Maheshwari</h1>
-<h3 align="center">I'm a Front-End Developer & Designer from India</h3>
+<h3 align="center">I'm a Front-End Web/App Developer & Designer from India</h3>
 
 ---
 
