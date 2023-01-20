@@ -1,29 +1,27 @@
 <h1 align="center">Hi 👋, I'm Dhruv Maheshwari</h1>
-<h3 align="center">I'm a Front-End Web/App Developer & Designer from India</h3>
+<h3 align="center">I'm Full-Stack Developer from India</h3>
 
 ---
 
-- 🔭 I’m currently working on - [**The TechPost**](https://react-blog-8fea6.web.app/)
+- 🔭 I’m currently working at - [**Perennial Systems**] as [**Java Developer**]
 
-- 🌱 I’m currently learning - **React JS** for **Web Developement** & **Flutter** for **App Developement**
+- 🌱 I’m currently learning - **Next JS**
 
 - 👨‍💻 All of my projects are available at - [**My Portfolio Website**](https://dhruv-maheshwari.web.app/)
 
 <!-- - 📝 I regularly write articles on - [**The TechPost**](https://react-blog-8fea6.web.app/) -->
 
-- 💬 Ask me about - **Web/App Developement, Cricket, Web Series**
+- 💬 Ask me about - **Web/App Developement, Cricket, Web Series, Market**
 
 - 📫 Want to Connect - [**Email Me**](dhruv.maheshwari.0126@gmail.com)
 
-- 📄 Know about my experiences - [**Resume**](https://drive.google.com/file/d/1Tm4E8fFvlgbksqjCanEww-mSSr1QesRn/view)
+<!-- - 📄 Know about my experiences - [**Resume**](https://drive.google.com/file/d/1Tm4E8fFvlgbksqjCanEww-mSSr1QesRn/view) -->
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_mr_d_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mr_d_m_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-maheshwari-5aa128193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-maheshwari-5aa128193" height="30" width="40" /></a>
-<a href="https://instagram.com/_.m.dhruv._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.m.dhruv._" height="30" width="40" /></a>
 </p>
 
 ---
